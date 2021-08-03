@@ -732,17 +732,10 @@ img {
 /* _____________________________Animacja_______________________________ */
 @keyframes changeModalBtn {
   25% {
-    transform: scale(25%);
-    transform: opacity(25%);
+    transform: scale(0%);
+    transform: opacity(0%);
   }
-  50% {
-    transform: scale(50%);
-    transform: opacity(50%);
-  }
-  75% {
-    transform: scale(75%);
-    transform: opacity(75%);
-  }
+
   100% {
     transform: scale(100%);
     transform: opacity(100%);
